@@ -15,3 +15,6 @@ The Coding Club website is a landing page for parents and children looking for a
 
 ## Credits
 - Thanks to my mentor.
+git add README.md
+git commit -m "Add markdown table to README"
+git push
