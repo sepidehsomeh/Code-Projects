@@ -15,6 +15,10 @@ The Coding Club website is a landing page for parents and children looking for a
 
 ## Credits
 - Thanks to my mentor.
-git add README.md
-git commit -m "Add markdown table to README"
-git push
+## My Table
+
+| Name | Role | Age |
+|------|------|------|
+| Sepideh | Student | 34 |
+| John | Mentor | 35 |
+| Sara | Developer | 28 |
